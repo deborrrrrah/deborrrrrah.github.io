@@ -1,0 +1,1 @@
+This domain used for URI of the resources in Knowledge Graph
