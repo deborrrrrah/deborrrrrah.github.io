@@ -32,4 +32,4 @@ akgs:variant a rdf:Property .
 
 akgs:texture a rdf:Property .
 
-akgs:penggunaan a rdf:Property .
+akgs:usage a rdf:Property .
