@@ -15,7 +15,7 @@
 
 # kelas dan relasi ontology
 
-akgs:Brand a rdfs:Class .
+akgs:Organization a rdfs:Class .
 
 akgs:Product a rdfs:Class .
 
@@ -33,3 +33,5 @@ akgs:variant a rdf:Property .
 akgs:texture a rdf:Property .
 
 akgs:usage a rdf:Property .
+
+akgs:brand a rdf:Property .

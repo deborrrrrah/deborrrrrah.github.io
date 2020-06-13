@@ -1,5 +1,5 @@
 # Tugas Akhir 
-Pembangunan Knowledge Graph dengan Ekstraksi Informasi dari Deskripsi Produk E-commerce dalam Bahasa Indonesia Studi Kasus : Produk Kosmetik Sariayu, Wardah, dan Emina <br>
+Pembangunan Knowledge Graph dengan Ekstraksi Informasi dari Data Teks Produk E-commerce dalam Bahasa Indonesia Studi Kasus : Produk Kosmetik Sariayu, Wardah, dan Emina <br>
 Oleh Deborah Aprilia Josephine (NIM: 13516152)
 
 **AnindyaKG**
