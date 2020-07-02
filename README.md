@@ -1,7 +1,7 @@
 # Tugas Akhir 
 Pembangunan Knowledge Graph dengan Ekstraksi Informasi dari Teks Multibahasa Indonesia dan Inggris Studi Kasus : Produk Kosmetik Indonesia <br>
 Oleh Deborah Aprilia Josephine (NIM: 13516152)
-Diperbarui 29 Juni 2020 20:35 WIB
+Diperbarui 3 Juli 2020 00:32 WIB
 
 **AnindyaKG**
 1. [product-ecommerce-scraper](https://github.com/deborrrrrah/product-ecommerce-scraper)

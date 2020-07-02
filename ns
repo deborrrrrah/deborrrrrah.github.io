@@ -13,16 +13,24 @@
 
 # Set of Concepts (class)
 akgs:Organization rdf:type rdfs:Class .
-
 akgs:Product rdf:type rdfs:Class .
-#  Properties of Product Class
+akgs:Brand rdf:type rdfs:Class .
+
+# Properties of Organization, Product and Brand Class
 akgs:name rdf:type rdfs:Property .
+
+#  Properties of Product Class
 akgs:measurement rdf:type rdf:Property .
 akgs:variant rdf:type rdf:Property .
 akgs:texture rdf:type rdf:Property .
 akgs:usage rdf:type rdf:Property .
-akgs:brand rdf:type rdf:Property .
 
 # Set of Relations (property)
 akgs:owns rdf:type rdf:Property .
 akgs:owns rdfs:range akgs:Product .
+
+akgs:brand rdf:type rdf:Property .
+akgs:brand rdfs:range akgs:Brand .
+
+akgs:manufacturer rdf:type rdf:Property .
+akgs:manufacturer rdfs:range akgs:Organization .
